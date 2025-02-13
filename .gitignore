@@ -1,0 +1,8 @@
+__pycache__/
+.env
+config.py
+data_error.log
+.ipynb_checkpoints
+index.html
+recommender.py
+data_log.log
