@@ -1,7 +1,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 
-## Dataset Normalization and API creation Project
+## Dataset Normalization and API Creation Project
 
 This project focuses on normalizing a dataset of Movies & Shows, setting up a relational database, and creating an API for data reading and writing. It involves various data processing steps, including normalization, transformation, insertion into the database, and API creation for efficient data management.
 
